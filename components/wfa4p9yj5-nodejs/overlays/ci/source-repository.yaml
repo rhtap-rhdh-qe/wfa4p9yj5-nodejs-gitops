@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wfa4p9yj5-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wfa4p9yj5-nodejs
